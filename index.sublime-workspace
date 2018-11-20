@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"python3 \"train.py\"",
+			"python3 train.py",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xianzhez/developer/personalPage/repo/assets/sass/main.scss",
+		"/Users/xianzhez/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/0edb901da3d4d7004e6bde52bc936541/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/p03_gmm.py",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/solutions/3/tmp/ly/p03_gmm.py",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/ps2/src/ps2/src/p01_lr.py",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/ps2/src/hidden_test_set/tests/test_ps2.py",
+		"/Users/xianzhez/xianzheDoc/Apply/Lynn/draft/PS/PS_outline.txt",
+		"/Users/xianzhez/Stanford/courses/CS145/projects/project1/source/project1_submission.py",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/ps2/workspace/ps2/data/ds6_test.tsv",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/test/ps2/data/ds6_readme",
+		"/Users/xianzhez/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/0edb901da3d4d7004e6bde52bc936541/Message/MessageTemp/9f5f6d49d39028bc5fee7f4262a9fe4f/File/p06_naive_bayes_predictions",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/test/ps2/src/p05_percept.py",
+		"/Users/xianzhez/xianzheDoc/Apply/Lynn/tasks/20181026.txt",
+		"/Users/xianzhez/xianzheDoc/Apply/Lynn/tasks/Todo_List_20181026.txt",
+		"/Users/xianzhez/xianzheDoc/Apply/Lynn/tasks/Todo_List_20181024.txt",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/solutions_std/github/stanford-cs229-master/Problem-set-2/1-Logistic-regression-training-stability/lr_debug.py",
+		"/Users/xianzhez/Stanford/courses/CS229/projects/src/train.py",
+		"/Users/xianzhez/tmp/code/Android Tetris/Tetris/app/src/main/java/edu/stanford/cs108/tetris/Board.java",
+		"/Users/xianzhez/Stanford/courses/CS229/projects/src/test_data/Mayo_train4_2D.h5",
+		"/Users/xianzhez/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/xianzhez/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/xianzhez/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/xianzhez/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/xianzhez/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/test/ps1/src/p01e_gda.py",
+		"/Users/xianzhez/Stanford/courses/CS229/homework/ps1/src/p01b_logreg.py",
+		"/Users/xianzhez/tmp/code/testSublime.py",
+		"/Users/xianzhez/tmp/code/1.java",
+		"/Users/xianzhez/Stanford/courses/CS229/projectrepo/readme.md",
+		"/Users/xianzhez/tmp/lynn/school/Stanford.txt",
+		"/Users/xianzhez/tmp/lynn/school/UCLA",
+		"/Users/xianzhez/tmp/lynn/school/NYU.txt",
+		"/Users/xianzhez/tmp/lynn/bookmarks_9_24_18.html",
+		"/Users/xianzhez/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/xianzhez/developer/projects/wechat_jump_game-master/requirements",
+		"/Users/xianzhez/xianzheDoc/documents/zhihu/GRE经验贴/资料/资料使用方法.txt",
+		"/Users/xianzhez/xianzheDoc/Apply/apply_repo/cv/cv_draft",
+		"/Users/xianzhez/xianzheDoc/Apply/repo/cv/Readme.md",
+		"/Users/xianzhez/.ShadowsocksX/gfwlist.js",
+		"/Volumes/Untitled/E_韵/wst/数设2实验/3110100812上交版/lab28/PipelineCPU/SRC/adder_4bits.v"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Stanford/courses/CS229/homework/test/ps1/src/p01e_gda.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
